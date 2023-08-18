@@ -87,6 +87,7 @@
         android:clipToPadding="false"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         android:paddingBottom="5dp"
+        tools:listitem="@layout/note_item_layout"
         android:transitionGroup="true"/>
 
 
