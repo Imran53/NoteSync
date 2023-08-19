@@ -50,7 +50,8 @@ dependencies {
     implementation "androidx.recyclerview:recyclerview:1.2.1"
 
     // RecyclerView Animator
-    implementation 'jp.wasabeef:recyclerview-animators:3.0.0'
+    //implementation 'jp.wasabeef:recyclerview-animators:3.0.0'
+    implementation 'jp.wasabeef:recyclerview-animators:4.0.2'
 
     // ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
